@@ -122,13 +122,13 @@ header {
 
 @keyframes image_change {
   0% {
-    background-image: url("res/product_img/1-m00-27-82-rb8lb2dculcaoibpaaglqqsztaa252.png");
+    background-image: url("../res/product_img/1-m00-27-82-rb8lb2dculcaoibpaaglqqsztaa252.png");
   }
   33% {
-    background-image: url("res/product_img/1-m00-27-82-rb8lb2dcuk-auubiaajukv08kds644.png");
+    background-image: url("../res/product_img/1-m00-27-82-rb8lb2dcuk-auubiaajukv08kds644.png");
   }
   66% {
-    background-image: url("res/product_img/1-m00-27-82-rb8bwmdculgasvoyaajoplmvjbe774.png");
+    background-image: url("../res/product_img/1-m00-27-82-rb8bwmdculgasvoyaajoplmvjbe774.png");
   }
 }
 
