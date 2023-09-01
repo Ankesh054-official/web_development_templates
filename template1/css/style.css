@@ -337,15 +337,16 @@ form > p {
 }
 .chat {
   position: fixed;
-  top: 550px;
-  left: 1253px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 100px;
-  width: 75px;
-  height: 75px;
-  background-color: rgb(51, 51, 51);
+    z-index: 999;
+    top: 759px;
+    left: 1794px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    width: 75px;
+    height: 75px;
+    background-color: rgb(51,51,51);
 }
 
 .chat:hover {
